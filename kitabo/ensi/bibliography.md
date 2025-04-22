@@ -1,4 +1,4 @@
-# Mode
+# Mode 🏝️
 
 <style>
 /* ╭━━━☆━━━╮  FLOAT FRAMES (Figure / Seealso) */
